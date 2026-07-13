@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    background:#eee;
+}
+
+.scene{
+    width:1400px;
+    margin:auto;
+    position:relative;
+
+.background{
+    width:100%;
+    display:block;
+}
+
+#butterfly1 {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    transition: 0.5s;
+}
+
+#butterfly2 {
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    transition: 0.5s;
+}
+
+#butterfly3 {
+    position: absolute;
+    left: 400px;
+    top: 400px;
+    transition: 0.5s;
+}
+
+#foo1 {
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    transition: 0.5s;
+}
+
+#foo2 {
+    position: absolute;
+    left: 600px;
+    top: 350px;
+    transition: 0.5s;
+}
+
+#foo3 {
+    position: absolute;
+    left: 700px;
+    top: 250px;
+    transition: 0.5s;
+}
+
+#foo4 {
+    position: absolute;
+    left: 800px;
+    top: 350px;
+    transition: 0.5s;
+}
+
+#foo5 {
+    position: absolute;
+    left: 900px;
+    top: 250px;
+    transition: 0.5s;
+}
